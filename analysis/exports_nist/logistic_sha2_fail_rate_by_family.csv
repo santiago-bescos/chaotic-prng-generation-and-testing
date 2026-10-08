@@ -1,0 +1,14 @@
+test_family,total_subtests,fails,fail_rate
+FFT,1,1,1.0
+LinearComplexity,1,1,1.0
+NonOverlappingTemplate,148,11,0.07432432432432433
+ApproximateEntropy,1,0,0.0
+BlockFrequency,1,0,0.0
+CumulativeSums,2,0,0.0
+Frequency,1,0,0.0
+LongestRun,1,0,0.0
+OverlappingTemplate,1,0,0.0
+Rank,1,0,0.0
+Runs,1,0,0.0
+Serial,2,0,0.0
+Universal,1,0,0.0

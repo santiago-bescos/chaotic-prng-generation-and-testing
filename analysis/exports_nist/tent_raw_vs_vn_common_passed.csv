@@ -1,0 +1,3 @@
+test,test_family,pass_tent_raw,p_uniformity_tent_raw,proportion_tent_raw,pass_count_tent_raw,total_tent_raw,pass_uniformity_tent_raw,pass_proportion_tent_raw,pass_tent_vn,p_uniformity_tent_vn,proportion_tent_vn,pass_count_tent_vn,total_tent_vn,pass_uniformity_tent_vn,pass_proportion_tent_vn
+LinearComplexity,LinearComplexity,True,0.213309,1.0,10,10,True,True,True,0.350485,1.0,10,10,True,True
+Rank,Rank,True,0.066882,1.0,10,10,True,True,True,0.213309,1.0,10,10,True,True

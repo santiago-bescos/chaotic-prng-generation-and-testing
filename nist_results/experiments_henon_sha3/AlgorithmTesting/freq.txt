@@ -1,0 +1,15 @@
+________________________________________________________________________________
+
+		FILE = /cygdrive/c/Users/santi/Documents/TFG/Drafts/Scripts/chaos_prng/outputs_randomness/henon/henon_sha3_allseq_ascii01.txt		ALPHA = 0.0100
+________________________________________________________________________________
+
+		BITSREAD = 1000000 0s = 499391 1s = 500609
+		BITSREAD = 1000000 0s = 500258 1s = 499742
+		BITSREAD = 1000000 0s = 500334 1s = 499666
+		BITSREAD = 1000000 0s = 499536 1s = 500464
+		BITSREAD = 1000000 0s = 499802 1s = 500198
+		BITSREAD = 1000000 0s = 500386 1s = 499614
+		BITSREAD = 1000000 0s = 499832 1s = 500168
+		BITSREAD = 1000000 0s = 499910 1s = 500090
+		BITSREAD = 1000000 0s = 500356 1s = 499644
+		BITSREAD = 1000000 0s = 499626 1s = 500374

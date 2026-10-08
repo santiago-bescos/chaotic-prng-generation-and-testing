@@ -1,0 +1,15 @@
+________________________________________________________________________________
+
+		FILE = /cygdrive/c/Users/santi/Documents/TFG/Drafts/Scripts/chaos_prng/outputs_randomness/tent/tent_raw_allseq_ascii01.txt		ALPHA = 0.0100
+________________________________________________________________________________
+
+		BITSREAD = 1000000 0s = 366626 1s = 633374
+		BITSREAD = 1000000 0s = 392737 1s = 607263
+		BITSREAD = 1000000 0s = 421925 1s = 578075
+		BITSREAD = 1000000 0s = 436546 1s = 563454
+		BITSREAD = 1000000 0s = 455418 1s = 544582
+		BITSREAD = 1000000 0s = 468034 1s = 531966
+		BITSREAD = 1000000 0s = 475157 1s = 524843
+		BITSREAD = 1000000 0s = 480511 1s = 519489
+		BITSREAD = 1000000 0s = 485261 1s = 514739
+		BITSREAD = 1000000 0s = 497093 1s = 502907

@@ -1,0 +1,13 @@
+generator,variant,failed_tests
+henon,raw,160
+henon,vn,157
+henon,sha2,0
+henon,sha3,0
+logistic,raw,160
+logistic,vn,157
+logistic,sha3,16
+logistic,sha2,13
+tent,raw,159
+tent,vn,136
+tent,sha2,0
+tent,sha3,0

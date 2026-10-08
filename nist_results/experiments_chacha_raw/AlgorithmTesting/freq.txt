@@ -1,0 +1,15 @@
+________________________________________________________________________________
+
+		FILE = /cygdrive/c/Users/santi/Documents/TFG/Drafts/Scripts/chaos_prng/outputs_randomness/chacha/chacha_raw_allseq_ascii01.txt		ALPHA = 0.0100
+________________________________________________________________________________
+
+		BITSREAD = 1000000 0s = 499681 1s = 500319
+		BITSREAD = 1000000 0s = 500268 1s = 499732
+		BITSREAD = 1000000 0s = 500142 1s = 499858
+		BITSREAD = 1000000 0s = 499628 1s = 500372
+		BITSREAD = 1000000 0s = 499748 1s = 500252
+		BITSREAD = 1000000 0s = 499795 1s = 500205
+		BITSREAD = 1000000 0s = 499223 1s = 500777
+		BITSREAD = 1000000 0s = 499424 1s = 500576
+		BITSREAD = 1000000 0s = 499580 1s = 500420
+		BITSREAD = 1000000 0s = 500209 1s = 499791

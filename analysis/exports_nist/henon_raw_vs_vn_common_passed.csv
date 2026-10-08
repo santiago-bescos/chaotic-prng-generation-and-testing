@@ -1,0 +1,3 @@
+test,test_family,pass_henon_raw,p_uniformity_henon_raw,proportion_henon_raw,pass_count_henon_raw,total_henon_raw,pass_uniformity_henon_raw,pass_proportion_henon_raw,pass_henon_vn,p_uniformity_henon_vn,proportion_henon_vn,pass_count_henon_vn,total_henon_vn,pass_uniformity_henon_vn,pass_proportion_henon_vn
+LinearComplexity,LinearComplexity,True,0.534146,1.0,10,10,True,True,True,0.534146,1.0,10,10,True,True
+Rank,Rank,True,0.350485,1.0,10,10,True,True,True,0.739918,1.0,10,10,True,True

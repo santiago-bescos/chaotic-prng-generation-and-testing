@@ -1,0 +1,3 @@
+test,test_family,pass_logistic_raw,p_uniformity_logistic_raw,proportion_logistic_raw,pass_count_logistic_raw,total_logistic_raw,pass_uniformity_logistic_raw,pass_proportion_logistic_raw,pass_logistic_vn,p_uniformity_logistic_vn,proportion_logistic_vn,pass_count_logistic_vn,total_logistic_vn,pass_uniformity_logistic_vn,pass_proportion_logistic_vn
+LinearComplexity,LinearComplexity,True,0.066882,0.9,9,10,True,True,True,0.534146,0.9,9,10,True,True
+Rank,Rank,True,0.739918,0.9,9,10,True,True,True,0.350485,0.9,9,10,True,True

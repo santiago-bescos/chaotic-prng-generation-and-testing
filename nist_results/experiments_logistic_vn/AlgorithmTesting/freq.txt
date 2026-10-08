@@ -1,0 +1,15 @@
+________________________________________________________________________________
+
+		FILE = /cygdrive/c/Users/santi/Documents/TFG/Drafts/Scripts/chaos_prng/outputs_randomness/logistic/logistic_vn_allseq_ascii01.txt		ALPHA = 0.0100
+________________________________________________________________________________
+
+		BITSREAD = 1000000 0s = 499192 1s = 500808
+		BITSREAD = 1000000 0s = 500000 1s = 500000
+		BITSREAD = 1000000 0s = 500270 1s = 499730
+		BITSREAD = 1000000 0s = 499944 1s = 500056
+		BITSREAD = 1000000 0s = 499934 1s = 500066
+		BITSREAD = 1000000 0s = 499518 1s = 500482
+		BITSREAD = 1000000 0s = 499627 1s = 500373
+		BITSREAD = 1000000 0s = 500736 1s = 499264
+		BITSREAD = 1000000 0s = 499744 1s = 500256
+		BITSREAD = 1000000 0s = 499944 1s = 500056

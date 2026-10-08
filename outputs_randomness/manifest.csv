@@ -1,0 +1,397 @@
+map_name,variant,format,filepath,n_bits,params_repr,stream_index,concatenated
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq01_ascii01.txt,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq01_packed.bin,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq01_uint32_le.bin,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq01_ascii01.txt,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq01_packed.bin,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq01_uint32_le.bin,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq01_ascii01.txt,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq01_packed.bin,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq01_uint32_le.bin,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq01_ascii01.txt,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq01_packed.bin,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq01_uint32_le.bin,1000000,"{'r': 3.8, 'x0': 0.123456, 'n_transient': 20000, 'threshold': 0.5}",1,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq02_ascii01.txt,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq02_packed.bin,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq02_uint32_le.bin,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq02_ascii01.txt,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq02_packed.bin,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq02_uint32_le.bin,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq02_ascii01.txt,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq02_packed.bin,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq02_uint32_le.bin,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq02_ascii01.txt,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq02_packed.bin,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq02_uint32_le.bin,1000000,"{'r': 3.84, 'x0': 0.234567, 'n_transient': 20000, 'threshold': 0.5}",2,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq03_ascii01.txt,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq03_packed.bin,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq03_uint32_le.bin,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq03_ascii01.txt,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq03_packed.bin,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq03_uint32_le.bin,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq03_ascii01.txt,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq03_packed.bin,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq03_uint32_le.bin,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq03_ascii01.txt,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq03_packed.bin,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq03_uint32_le.bin,1000000,"{'r': 3.88, 'x0': 0.345678, 'n_transient': 20000, 'threshold': 0.5}",3,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq04_ascii01.txt,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq04_packed.bin,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq04_uint32_le.bin,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq04_ascii01.txt,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq04_packed.bin,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq04_uint32_le.bin,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq04_ascii01.txt,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq04_packed.bin,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq04_uint32_le.bin,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq04_ascii01.txt,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq04_packed.bin,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq04_uint32_le.bin,1000000,"{'r': 3.92, 'x0': 0.456789, 'n_transient': 20000, 'threshold': 0.5}",4,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq05_ascii01.txt,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq05_packed.bin,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq05_uint32_le.bin,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq05_ascii01.txt,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq05_packed.bin,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq05_uint32_le.bin,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq05_ascii01.txt,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq05_packed.bin,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq05_uint32_le.bin,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq05_ascii01.txt,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq05_packed.bin,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq05_uint32_le.bin,1000000,"{'r': 3.94, 'x0': 0.56789, 'n_transient': 20000, 'threshold': 0.5}",5,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq06_ascii01.txt,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq06_packed.bin,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq06_uint32_le.bin,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq06_ascii01.txt,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq06_packed.bin,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq06_uint32_le.bin,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq06_ascii01.txt,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq06_packed.bin,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq06_uint32_le.bin,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq06_ascii01.txt,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq06_packed.bin,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq06_uint32_le.bin,1000000,"{'r': 3.96, 'x0': 0.678901, 'n_transient': 20000, 'threshold': 0.5}",6,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq07_ascii01.txt,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq07_packed.bin,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq07_uint32_le.bin,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq07_ascii01.txt,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq07_packed.bin,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq07_uint32_le.bin,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq07_ascii01.txt,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq07_packed.bin,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq07_uint32_le.bin,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq07_ascii01.txt,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq07_packed.bin,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq07_uint32_le.bin,1000000,"{'r': 3.97, 'x0': 0.789012, 'n_transient': 20000, 'threshold': 0.5}",7,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq08_ascii01.txt,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq08_packed.bin,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq08_uint32_le.bin,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq08_ascii01.txt,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq08_packed.bin,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq08_uint32_le.bin,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq08_ascii01.txt,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq08_packed.bin,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq08_uint32_le.bin,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq08_ascii01.txt,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq08_packed.bin,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq08_uint32_le.bin,1000000,"{'r': 3.98, 'x0': 0.890123, 'n_transient': 20000, 'threshold': 0.5}",8,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq09_ascii01.txt,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq09_packed.bin,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq09_uint32_le.bin,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq09_ascii01.txt,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq09_packed.bin,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq09_uint32_le.bin,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq09_ascii01.txt,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq09_packed.bin,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq09_uint32_le.bin,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq09_ascii01.txt,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq09_packed.bin,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq09_uint32_le.bin,1000000,"{'r': 3.985, 'x0': 0.135791, 'n_transient': 20000, 'threshold': 0.5}",9,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_seq10_ascii01.txt,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_seq10_packed.bin,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_seq10_uint32_le.bin,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_seq10_ascii01.txt,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_seq10_packed.bin,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_seq10_uint32_le.bin,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_seq10_ascii01.txt,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_seq10_packed.bin,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_seq10_uint32_le.bin,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_seq10_ascii01.txt,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_seq10_packed.bin,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_seq10_uint32_le.bin,1000000,"{'r': 3.99, 'x0': 0.246802, 'n_transient': 20000, 'threshold': 0.5}",10,False
+logistic,raw,ascii01,outputs_randomness\logistic\logistic_raw_allseq_ascii01.txt,10000000,concatenated,,True
+logistic,raw,bin_packed,outputs_randomness\logistic\logistic_raw_allseq_packed.bin,10000000,concatenated,,True
+logistic,raw,uint32_le,outputs_randomness\logistic\logistic_raw_allseq_uint32_le.bin,10000000,concatenated,,True
+logistic,sha2,ascii01,outputs_randomness\logistic\logistic_sha2_allseq_ascii01.txt,10000000,concatenated,,True
+logistic,sha2,bin_packed,outputs_randomness\logistic\logistic_sha2_allseq_packed.bin,10000000,concatenated,,True
+logistic,sha2,uint32_le,outputs_randomness\logistic\logistic_sha2_allseq_uint32_le.bin,10000000,concatenated,,True
+logistic,sha3,ascii01,outputs_randomness\logistic\logistic_sha3_allseq_ascii01.txt,10000000,concatenated,,True
+logistic,sha3,bin_packed,outputs_randomness\logistic\logistic_sha3_allseq_packed.bin,10000000,concatenated,,True
+logistic,sha3,uint32_le,outputs_randomness\logistic\logistic_sha3_allseq_uint32_le.bin,10000000,concatenated,,True
+logistic,vn,ascii01,outputs_randomness\logistic\logistic_vn_allseq_ascii01.txt,10000000,concatenated,,True
+logistic,vn,bin_packed,outputs_randomness\logistic\logistic_vn_allseq_packed.bin,10000000,concatenated,,True
+logistic,vn,uint32_le,outputs_randomness\logistic\logistic_vn_allseq_uint32_le.bin,10000000,concatenated,,True
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq01_ascii01.txt,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq01_packed.bin,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq01_uint32_le.bin,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq01_ascii01.txt,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq01_packed.bin,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq01_uint32_le.bin,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq01_ascii01.txt,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq01_packed.bin,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq01_uint32_le.bin,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq01_ascii01.txt,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq01_packed.bin,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq01_uint32_le.bin,1000000,"{'mu': 1.8, 'x0': 0.13579, 'n_transient': 20000, 'threshold': 0.5}",1,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq02_ascii01.txt,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq02_packed.bin,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq02_uint32_le.bin,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq02_ascii01.txt,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq02_packed.bin,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq02_uint32_le.bin,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq02_ascii01.txt,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq02_packed.bin,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq02_uint32_le.bin,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq02_ascii01.txt,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq02_packed.bin,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq02_uint32_le.bin,1000000,"{'mu': 1.85, 'x0': 0.2468, 'n_transient': 20000, 'threshold': 0.5}",2,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq03_ascii01.txt,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq03_packed.bin,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq03_uint32_le.bin,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq03_ascii01.txt,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq03_packed.bin,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq03_uint32_le.bin,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq03_ascii01.txt,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq03_packed.bin,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq03_uint32_le.bin,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq03_ascii01.txt,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq03_packed.bin,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq03_uint32_le.bin,1000000,"{'mu': 1.9, 'x0': 0.35791, 'n_transient': 20000, 'threshold': 0.5}",3,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq04_ascii01.txt,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq04_packed.bin,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq04_uint32_le.bin,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq04_ascii01.txt,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq04_packed.bin,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq04_uint32_le.bin,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq04_ascii01.txt,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq04_packed.bin,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq04_uint32_le.bin,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq04_ascii01.txt,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq04_packed.bin,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq04_uint32_le.bin,1000000,"{'mu': 1.93, 'x0': 0.46802, 'n_transient': 20000, 'threshold': 0.5}",4,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq05_ascii01.txt,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq05_packed.bin,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq05_uint32_le.bin,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq05_ascii01.txt,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq05_packed.bin,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq05_uint32_le.bin,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq05_ascii01.txt,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq05_packed.bin,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq05_uint32_le.bin,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq05_ascii01.txt,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq05_packed.bin,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq05_uint32_le.bin,1000000,"{'mu': 1.95, 'x0': 0.57913, 'n_transient': 20000, 'threshold': 0.5}",5,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq06_ascii01.txt,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq06_packed.bin,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq06_uint32_le.bin,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq06_ascii01.txt,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq06_packed.bin,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq06_uint32_le.bin,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq06_ascii01.txt,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq06_packed.bin,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq06_uint32_le.bin,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq06_ascii01.txt,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq06_packed.bin,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq06_uint32_le.bin,1000000,"{'mu': 1.97, 'x0': 0.69024, 'n_transient': 20000, 'threshold': 0.5}",6,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq07_ascii01.txt,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq07_packed.bin,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq07_uint32_le.bin,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq07_ascii01.txt,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq07_packed.bin,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq07_uint32_le.bin,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq07_ascii01.txt,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq07_packed.bin,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq07_uint32_le.bin,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq07_ascii01.txt,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq07_packed.bin,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq07_uint32_le.bin,1000000,"{'mu': 1.98, 'x0': 0.80135, 'n_transient': 20000, 'threshold': 0.5}",7,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq08_ascii01.txt,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq08_packed.bin,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq08_uint32_le.bin,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq08_ascii01.txt,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq08_packed.bin,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq08_uint32_le.bin,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq08_ascii01.txt,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq08_packed.bin,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq08_uint32_le.bin,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq08_ascii01.txt,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq08_packed.bin,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq08_uint32_le.bin,1000000,"{'mu': 1.985, 'x0': 0.41246, 'n_transient': 20000, 'threshold': 0.5}",8,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq09_ascii01.txt,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq09_packed.bin,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq09_uint32_le.bin,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq09_ascii01.txt,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq09_packed.bin,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq09_uint32_le.bin,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq09_ascii01.txt,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq09_packed.bin,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq09_uint32_le.bin,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq09_ascii01.txt,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq09_packed.bin,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq09_uint32_le.bin,1000000,"{'mu': 1.99, 'x0': 0.52357, 'n_transient': 20000, 'threshold': 0.5}",9,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_seq10_ascii01.txt,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_seq10_packed.bin,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_seq10_uint32_le.bin,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_seq10_ascii01.txt,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_seq10_packed.bin,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_seq10_uint32_le.bin,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_seq10_ascii01.txt,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_seq10_packed.bin,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_seq10_uint32_le.bin,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_seq10_ascii01.txt,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_seq10_packed.bin,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_seq10_uint32_le.bin,1000000,"{'mu': 1.999, 'x0': 0.63468, 'n_transient': 20000, 'threshold': 0.5}",10,False
+tent,raw,ascii01,outputs_randomness\tent\tent_raw_allseq_ascii01.txt,10000000,concatenated,,True
+tent,raw,bin_packed,outputs_randomness\tent\tent_raw_allseq_packed.bin,10000000,concatenated,,True
+tent,raw,uint32_le,outputs_randomness\tent\tent_raw_allseq_uint32_le.bin,10000000,concatenated,,True
+tent,sha2,ascii01,outputs_randomness\tent\tent_sha2_allseq_ascii01.txt,10000000,concatenated,,True
+tent,sha2,bin_packed,outputs_randomness\tent\tent_sha2_allseq_packed.bin,10000000,concatenated,,True
+tent,sha2,uint32_le,outputs_randomness\tent\tent_sha2_allseq_uint32_le.bin,10000000,concatenated,,True
+tent,sha3,ascii01,outputs_randomness\tent\tent_sha3_allseq_ascii01.txt,10000000,concatenated,,True
+tent,sha3,bin_packed,outputs_randomness\tent\tent_sha3_allseq_packed.bin,10000000,concatenated,,True
+tent,sha3,uint32_le,outputs_randomness\tent\tent_sha3_allseq_uint32_le.bin,10000000,concatenated,,True
+tent,vn,ascii01,outputs_randomness\tent\tent_vn_allseq_ascii01.txt,10000000,concatenated,,True
+tent,vn,bin_packed,outputs_randomness\tent\tent_vn_allseq_packed.bin,10000000,concatenated,,True
+tent,vn,uint32_le,outputs_randomness\tent\tent_vn_allseq_uint32_le.bin,10000000,concatenated,,True
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq01_ascii01.txt,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq01_packed.bin,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq01_uint32_le.bin,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq01_ascii01.txt,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq01_packed.bin,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq01_uint32_le.bin,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq01_ascii01.txt,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq01_packed.bin,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq01_uint32_le.bin,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq01_ascii01.txt,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq01_packed.bin,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq01_uint32_le.bin,1000000,"{'a': 1.36, 'b': 0.3, 'x0': 0.0, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",1,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq02_ascii01.txt,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq02_packed.bin,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq02_uint32_le.bin,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq02_ascii01.txt,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq02_packed.bin,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq02_uint32_le.bin,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq02_ascii01.txt,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq02_packed.bin,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq02_uint32_le.bin,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq02_ascii01.txt,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq02_packed.bin,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq02_uint32_le.bin,1000000,"{'a': 1.37, 'b': 0.3, 'x0': 0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",2,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq03_ascii01.txt,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq03_packed.bin,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq03_uint32_le.bin,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq03_ascii01.txt,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq03_packed.bin,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq03_uint32_le.bin,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq03_ascii01.txt,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq03_packed.bin,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq03_uint32_le.bin,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq03_ascii01.txt,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq03_packed.bin,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq03_uint32_le.bin,1000000,"{'a': 1.38, 'b': 0.3, 'x0': -0.01, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",3,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq04_ascii01.txt,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq04_packed.bin,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq04_uint32_le.bin,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq04_ascii01.txt,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq04_packed.bin,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq04_uint32_le.bin,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq04_ascii01.txt,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq04_packed.bin,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq04_uint32_le.bin,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq04_ascii01.txt,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq04_packed.bin,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq04_uint32_le.bin,1000000,"{'a': 1.39, 'b': 0.3, 'x0': 0.02, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",4,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq05_ascii01.txt,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq05_packed.bin,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq05_uint32_le.bin,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq05_ascii01.txt,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq05_packed.bin,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq05_uint32_le.bin,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq05_ascii01.txt,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq05_packed.bin,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq05_uint32_le.bin,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq05_ascii01.txt,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq05_packed.bin,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq05_uint32_le.bin,1000000,"{'a': 1.4, 'b': 0.3, 'x0': -0.02, 'y0': -0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",5,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq06_ascii01.txt,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq06_packed.bin,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq06_uint32_le.bin,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq06_ascii01.txt,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq06_packed.bin,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq06_uint32_le.bin,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq06_ascii01.txt,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq06_packed.bin,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq06_uint32_le.bin,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq06_ascii01.txt,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq06_packed.bin,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq06_uint32_le.bin,1000000,"{'a': 1.41, 'b': 0.3, 'x0': 0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",6,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq07_ascii01.txt,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq07_packed.bin,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq07_uint32_le.bin,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq07_ascii01.txt,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq07_packed.bin,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq07_uint32_le.bin,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq07_ascii01.txt,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq07_packed.bin,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq07_uint32_le.bin,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq07_ascii01.txt,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq07_packed.bin,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq07_uint32_le.bin,1000000,"{'a': 1.42, 'b': 0.3, 'x0': -0.03, 'y0': 0.0, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",7,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq08_ascii01.txt,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq08_packed.bin,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq08_uint32_le.bin,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq08_ascii01.txt,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq08_packed.bin,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq08_uint32_le.bin,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq08_ascii01.txt,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq08_packed.bin,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq08_uint32_le.bin,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq08_ascii01.txt,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq08_packed.bin,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq08_uint32_le.bin,1000000,"{'a': 1.385, 'b': 0.3, 'x0': 0.015, 'y0': -0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",8,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq09_ascii01.txt,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq09_packed.bin,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq09_uint32_le.bin,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq09_ascii01.txt,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq09_packed.bin,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq09_uint32_le.bin,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq09_ascii01.txt,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq09_packed.bin,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq09_uint32_le.bin,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq09_ascii01.txt,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq09_packed.bin,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq09_uint32_le.bin,1000000,"{'a': 1.395, 'b': 0.3, 'x0': -0.015, 'y0': 0.005, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",9,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_seq10_ascii01.txt,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_seq10_packed.bin,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_seq10_uint32_le.bin,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_seq10_ascii01.txt,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_seq10_packed.bin,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_seq10_uint32_le.bin,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_seq10_ascii01.txt,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_seq10_packed.bin,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_seq10_uint32_le.bin,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_seq10_ascii01.txt,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_seq10_packed.bin,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_seq10_uint32_le.bin,1000000,"{'a': 1.405, 'b': 0.3, 'x0': 0.005, 'y0': 0.01, 'n_transient': 20000, 'threshold': 0.5, 'coord': 'x'}",10,False
+henon,raw,ascii01,outputs_randomness\henon\henon_raw_allseq_ascii01.txt,10000000,concatenated,,True
+henon,raw,bin_packed,outputs_randomness\henon\henon_raw_allseq_packed.bin,10000000,concatenated,,True
+henon,raw,uint32_le,outputs_randomness\henon\henon_raw_allseq_uint32_le.bin,10000000,concatenated,,True
+henon,sha2,ascii01,outputs_randomness\henon\henon_sha2_allseq_ascii01.txt,10000000,concatenated,,True
+henon,sha2,bin_packed,outputs_randomness\henon\henon_sha2_allseq_packed.bin,10000000,concatenated,,True
+henon,sha2,uint32_le,outputs_randomness\henon\henon_sha2_allseq_uint32_le.bin,10000000,concatenated,,True
+henon,sha3,ascii01,outputs_randomness\henon\henon_sha3_allseq_ascii01.txt,10000000,concatenated,,True
+henon,sha3,bin_packed,outputs_randomness\henon\henon_sha3_allseq_packed.bin,10000000,concatenated,,True
+henon,sha3,uint32_le,outputs_randomness\henon\henon_sha3_allseq_uint32_le.bin,10000000,concatenated,,True
+henon,vn,ascii01,outputs_randomness\henon\henon_vn_allseq_ascii01.txt,10000000,concatenated,,True
+henon,vn,bin_packed,outputs_randomness\henon\henon_vn_allseq_packed.bin,10000000,concatenated,,True
+henon,vn,uint32_le,outputs_randomness\henon\henon_vn_allseq_uint32_le.bin,10000000,concatenated,,True
